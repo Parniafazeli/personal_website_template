@@ -9,6 +9,8 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+reading a book
+exersicing
+cooking
 
 
