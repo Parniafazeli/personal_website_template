@@ -7,11 +7,15 @@ tags: [friends]
 modified: 4-10-2019
 comments: true
 ---
+my frineds at high school:
+nora sedighi
+niousha gilani
+mobina shokohi
+my frineds at uni:
+sara
+sanam
+mahsa
 
-### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
 
 
 
