@@ -15,7 +15,6 @@ comments: false
 
 
 ## Tehran
-### narmak
 ### iust
 
 - mored 1
