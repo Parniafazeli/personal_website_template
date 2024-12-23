@@ -2,8 +2,7 @@
 layout: posts
 title: my education
 ---
-computer engineering of iust
-i love my field
+computer engineering  ir
 
 
 
