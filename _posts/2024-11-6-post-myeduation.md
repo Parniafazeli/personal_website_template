@@ -2,7 +2,9 @@
 layout: posts
 title: my education
 ---
-computer engineering  ir
+field : computer engineering
+university: iran university of science and technology(IUST)
+
 
 
 
