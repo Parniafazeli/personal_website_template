@@ -1,7 +1,9 @@
---
-layout: posts
-title: my education
 ---
+layout: posts
+title: رشته تحصیلی
+---
+
+
 field : computer engineering
 
 university: iran university of science and technology(IUST)
