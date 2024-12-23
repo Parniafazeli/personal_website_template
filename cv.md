@@ -18,7 +18,7 @@ hello, my name is parnia.
 
 
 
-![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
+![Painting](https://www.myclickmagazine.com/wp-content/uploads/2019/02/Photographing_Minimalism_Composition_Negative_Space_by_Dana_Walton_01.jpg)
 
 
 <iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
