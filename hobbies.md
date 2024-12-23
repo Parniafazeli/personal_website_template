@@ -10,8 +10,13 @@ comments: false
 
 
 reading a book
+
 exersicing
+
 cooking 
+
 hange out 
+
+wathcing movie
 
 
