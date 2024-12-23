@@ -8,9 +8,9 @@ modified: 4-10-2019
 comments: true
 ---
 my frineds at high school:
-nora sedighi
-niousha gilani
-mobina shokohi
+nora 
+niousha 
+mobina 
 my frineds at uni:
 sara
 sanam
