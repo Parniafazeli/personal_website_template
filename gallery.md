@@ -7,8 +7,8 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/1.jpg
-    image_path: /assets/images/1.jpg
+  - url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA5TFr2P4Shfl2xEc1R-nbZw_9DosQThOJYw&s
+    image_path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA5TFr2P4Shfl2xEc1R-nbZw_9DosQThOJYw&s
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/2.jpg
