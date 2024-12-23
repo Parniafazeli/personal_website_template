@@ -9,22 +9,14 @@ comments: false
 ---
 
 
-# ekhteshash
-سلام من پرنیام
-
+hello, my name is parnia.
 
 
 ## Tehran
 ### iust
 
-- mored 1
-- mored 2
-
-My favorite website is [yahoo](http://www.yahoo.com).
 
 
-## Esfahan
-ldkfjs
 
 ![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
 
